@@ -646,7 +646,8 @@ readers do not read off random characters that represent icons */
 .fa-camera-retro:before {
   content: "\f083"; }
 
-.fa-cannabis:before {
+.fa-can
+is:before {
   content: "\f55f"; }
 
 .fa-capsules:before {
